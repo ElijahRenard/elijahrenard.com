@@ -1,0 +1,66 @@
+<div class="swiper-wrapper"> <a class="arrow-left" href="#"></a> <a class="arrow-right" href="#"></a>
+  <div class="swiper-container gallery">
+    <div class="swiper">
+      <div class="item">
+        <figure class="frame"><img src="./../style/images/art/game-dob-00.jpg" alt="" /></figure>
+      </div>
+      <!-- /.item -->
+      <div class="item">
+        <figure class="frame"><img src="./../style/images/art/game-dob-01.jpg" alt="" /></figure>
+      </div>
+      <!-- /.item -->
+      <div class="item">
+        <figure class="frame"><img src="./../style/images/art/game-dob-02.jpg" alt="" /></figure>
+      </div>
+      <!-- /.item -->
+      <div class="item">
+        <figure class="frame"><img src="./../style/images/art/game-dob-03.jpg" alt="" /></figure>
+      </div>
+    </div>
+    <!-- /.swiper -->
+  </div>
+  <!-- /.swiper-container -->
+</div>
+<!-- /.swiper-wrapper -->
+
+<div class="container inner">
+  <div class="box">
+
+    <h1 class="post-title">Dance on Broadway</h1>
+    <p>I lead the prototyping team where we designed paper prototypes, sandbox simulations, UX/UI, playtesting & focus groups.<br/>
+      My first cross-platform titled reached $1M+ units and I learned a ton: I actually enjoy musicals!</p>
+    <div class="divide10"></div>
+    <!--<a href="#" class="btn">More Info</a>-->
+
+  </div>
+  <!-- /.box -->
+</div>
+<!-- /.container -->
+
+
+
+
+<!-- INSERT PAGE SCRIPTS HERE -->
+<script type="text/javascript">
+	$('.swiper-container.gallery').each(function(){
+		  $(this).swiper({
+		     grabCursor: true,
+		    slidesPerView: 'auto',
+		    wrapperClass: 'swiper',
+		    slideClass: 'item',
+		    offsetPxBefore: 0,
+		     offsetPxAfter: 0
+		  });
+
+		  var $swipers = $(this);
+
+		  $swipers.siblings('.arrow-left').click(function(){
+		$swipers.data('swiper').swipeTo($swipers.data('swiper').activeIndex-1);
+		return false;
+		});
+		$swipers.siblings('.arrow-right').click(function(){
+		$swipers.data('swiper').swipeTo($swipers.data('swiper').activeIndex+1);
+		return false;
+		});
+	});
+</script>

@@ -1,0 +1,66 @@
+<div class="swiper-wrapper"> <a class="arrow-left" href="#"></a> <a class="arrow-right" href="#"></a>
+  <div class="swiper-container gallery">
+    <div class="swiper">
+      <div class="item">
+        <figure class="frame"><img src="./../style/images/art/game-kot-00.jpg" alt="" /></figure>
+      </div>
+      <!-- /.item -->
+      <div class="item">
+        <figure class="frame"><img src="./../style/images/art/game-kot-01.jpg" alt="" /></figure>
+      </div>
+      <!-- /.item -->
+      <div class="item">
+        <figure class="frame"><img src="./../style/images/art/game-kot-02.jpg" alt="" /></figure>
+      </div>
+      <!-- /.item -->
+      <div class="item">
+        <figure class="frame"><img src="./../style/images/art/game-kot-03.jpg" alt="" /></figure>
+      </div>
+    </div>
+    <!-- /.swiper -->
+  </div>
+  <!-- /.swiper-container -->
+</div>
+<!-- /.swiper-wrapper -->
+
+<div class="container inner">
+  <div class="box">
+
+    <h1 class="post-title">King of Trading</h1>
+    <p>Ronin Game Studios renewed our contract for a new Wall Street themed titled.<br/>
+    I produced UX & UI documents, prototypes, animations & level integration / level design in Unity.</p>
+    <div class="divide10"></div>
+    <!--<a href="#" class="btn">More Info</a>-->
+
+  </div>
+  <!-- /.box -->
+</div>
+<!-- /.container -->
+
+
+
+
+<!-- INSERT PAGE SCRIPTS HERE -->
+<script type="text/javascript">
+	$('.swiper-container.gallery').each(function(){
+		  $(this).swiper({
+		     grabCursor: true,
+		    slidesPerView: 'auto',
+		    wrapperClass: 'swiper',
+		    slideClass: 'item',
+		    offsetPxBefore: 0,
+		     offsetPxAfter: 0
+		  });
+
+		  var $swipers = $(this);
+
+		  $swipers.siblings('.arrow-left').click(function(){
+		$swipers.data('swiper').swipeTo($swipers.data('swiper').activeIndex-1);
+		return false;
+		});
+		$swipers.siblings('.arrow-right').click(function(){
+		$swipers.data('swiper').swipeTo($swipers.data('swiper').activeIndex+1);
+		return false;
+		});
+	});
+</script>

@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<game>
+	<title>MC2</title>
+	<release-date>1 July, 2014</release-date>
+	<website>http://www.playmc2.com/</website>
+	<press-can-request-copy>TRUE</press-can-request-copy>
+
+	<platforms>
+		<platform>
+			<name>iPhone / iPad</name>
+			<link>http://www.playmc2.com/</link>
+		</platform>
+		<platform>
+			<name>Apple App Store</name>
+			<link>http://bit.ly/YV1j7a</link>
+		</platform>
+	</platforms>
+	
+	<prices>
+		<price>
+			<currency>Free</currency>
+			<value></value>
+		</price>
+	</prices>
+
+	<description>
+	MC2 is a daily tracking mobile platform that rewards people with points and prizes for doing things they like or care about – making life healthier, happier and more rewarding. It was founded in August, 2012 in Ottawa, Canada and will soon be available in 50 countries around the world.
+	</description>
+	
+	<history>
+	With over 100 years combined experience in digital, business and political communications, we’re a ‘Canada-meets-international’ team of mystery who have designed games for Sony, Nintendo, EA, Microsoft and Apple.
+    <br />
+    We have contributed to, and have been interviewed by:  Harvard Business Review, The Huffington Post, The Globe and Mail, Toronto Star, The Hill Times, The National Post and CBC Radio-Canada, to name a few.
+    <br />
+    We speak English, French, Italian, Spanish, Russian, Uzbek, Tajik, Korean and Mandarin. If you’re interested in joining us, send us a note at: jobs@mcrowdsourcing.com
+    <br />
+    Our goal is to make life — and the world — a game that we play.
+	</history>
+
+	<features>
+		<feature>Track daily activities from the palm of your hand</feature>
+		<feature>Verify completed activities with real-time photo sharing and check-ins</feature>
+		<feature>Take action and win points</feature>
+		<feature>Get rewards from over 300 companies in Canada, the United States and the United Kingdom</feature>
+		<feature>Hash search makes it easy to #takeaction</feature>
+		<feature>Share on other social networking platforms like Facebook and Twitter</feature>
+		<feature>Activity stream includes recently completed microactions, “loves,” points and user level</feature>
+	</features>
+	
+	<credits>
+		<credit>
+			<person>Giovanna Mingarelli</person>
+			<website>http://www.mingarelli.co/home.php</website>
+			<role>CEO &amp; Co-Founder, MCrowdsourcing</role>
+		</credit>
+		<credit>
+			<person>Brandon A. Lee</person>
+			<website>http://www.mingarelli.co/home.php</website>
+			<role>COO &amp; Co-Founder, MCrowdsourcing</role>
+		</credit>
+		<credit>
+			<person>Quentin Nahum</person>
+			<website>http://www.mcrowdsourcing.com</website>
+			<role>CFO, MCrowdsourcing</role>
+		</credit>
+		<credit>
+			<person>Tim Vail</person>
+			<website>http://www.mcrowdsourcing.com</website>
+			<role>Vice-President of Communications, MCrowdsourcing</role>
+		</credit>
+		<credit>
+			<person>Elijah Renard</person>
+			<website>www.elijahrenard.com</website>
+			<role>Lead UX Designer, MCrowdsourcing</role>
+		</credit>
+		<credit>
+			<person>Dan Blackman</person>
+			<website>www.danblackman.com</website>
+			<role>Branding &amp; Graphic Design, Freelancer</role>
+		</credit>
+	</credits>
+</game>

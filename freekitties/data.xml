@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- example file containing base tags -->
+
+<game>	
+	<title>Free Kitties</title>
+	<!--<founding-date>August, 2012</founding-date>-->
+	<release-date>November 27, 2014</release-date>
+	<website>http://igg.me/at/freekitties</website>
+	<based-in>Montreal, Canada</based-in>
+	
+	<press-contact>elijahrenard@gmail.com</press-contact>
+	<phone>Upon request</phone>
+	
+	<platforms>
+		<platform>
+			<name>Indiegogo</name>
+			<link>http://igg.me/at/freekitties</link>
+		</platform>
+		<platform>
+			<name>Vimeo</name>
+			<link>https://vimeo.com/elijahrenard/freekitties</link>
+		</platform>
+	</platforms>
+	
+	<prices>
+		<price>
+			<currency>Free</currency>
+			<value></value>
+		</price>
+	</prices>
+
+	<features>
+		<feature>Trans 101 Introduction</feature>
+		<feature>What's a binder?</feature>
+		<feature>What does it feel like to wear one? two?</feature>
+		<feature>What's gender dysphoria?</feature>
+		<feature>Pixel art!</feature>
+		<feature>Unicorns!</feature>
+		<feature>Kitties!</feature>
+	</features>
+
+	<socials>
+		<social>
+			<name>twitter.com/ElijahRenard</name>
+			<link>twitter.com/ElijahRenard</link>
+		</social>
+		<social>
+			<name>facebook.com/ElijahRenard</name>
+			<link>facebook.com/ElijahRenard</link>
+		</social>
+		<social>
+			<name>Instagram.com/ElijahRenard</name>
+			<link>instagram.com/ElijahRenard</link>
+		</social>
+	</socials>
+
+	<description>
+		Free Kitties is a fun crowdfunding campaign spearheaded by Elijah Renard to raise public awareness around transgender issues such as gender dysphoria and lack of visibility, and to get chest reconstruction surgery.
+	</description>
+		
+	<histories>
+		<history>
+			<header>Early history</header>
+			<text>
+			Elijah Renard is a Canadian game designer, ux designer and pixel art enthusiast. He studied game design at Vancouver Film School (VFS) and designed games for Hasbro and Ubisoft during his time at EA Mobile and Longtail Studios. Elijah is currently working on PlayMC2, a daily tracking mobile platform that rewards people with points and prizes for doing things they care about – making life healthier, happier and more rewarding.
+			</text>
+		</history>
+	</histories>
+	
+	<press-can-request-copy>TRUE</press-can-request-copy> <!-- can be true or false -->
+	<monetization-permission>monetize</monetization-permission> <!-- can be: 	false (no video allowed),
+																			 	ask (permission on case-per-case basis),
+																			 	non-commercial (no monetization allowed),
+																			 	monetize (full permission) -->	
+	<trailers>
+		<trailer>
+			<name>The Official Free Kitties Launch Video</name>
+			<youtube>IHV_ywxwrTI</youtube>
+		</trailer>
+		<trailer>
+			<name>Entretien avec un trans - Episode 1</name>
+			<youtube>P1oiJstSmws</youtube>
+		</trailer>
+		<trailer>
+			<name>Entretien avec un trans - Episode 2</name>
+			<youtube>OujCboyyB-w</youtube>
+		</trailer>
+		<trailer>
+			<name>Entretien avec un trans - Episode 3</name>
+			<youtube>ITXnNfNsKrg</youtube>
+		</trailer>
+	</trailers>
+
+	<additionals>
+		<additional>
+			<title>Free Kitties: Montreal transgender man hopes to crowdfund surgery</title>
+			<description>Elijah Renard's interviewed by Lauren Strapagiel is re-posted by National Post (January 16, 2015)</description>
+			<link>http://bit.ly/freekitties-nationalpost</link>
+		</additional>
+		<additional>
+			<title>Free Kitties: Montreal transgender man hopes to crowdfund surgery</title>
+			<description>Elijah Renard is interviewed by Lauren Strapagiel for Postmedia (January 16, 2015)</description>
+			<link>http://bit.ly/freekitties-ocanada</link>
+		</additional>
+		<additional>
+			<title>I'm A Trans Man Who Stripped Down To Show the Importance of Top Surgery</title>
+			<description>An article by Elijah Renard for xoJane (January 14, 2015)</description>
+			<link>http://bit.ly/freekitties-xojane</link>
+		</additional>
+		<additional>
+			<title>[PDF] Lex In Wonderland - Chapter 1</title>
+			<description>A preview release of Lex In Wonderland (December 26, 2014)</description>
+			<link>http://bit.ly/LexInWonderland_Chapter1</link>
+		</additional>
+		<additional>
+			<title>The Making of "Entretien avec un trans"</title>
+			<description>A postmortem blog entry by Eric Mailhot - Ericzone.com (December 12, 2014)</description>
+			<link>http://bit.ly/EriczonePostmortem</link>
+		</additional>
+		<additional>
+			<title>[PDF] Montreal Transguy Strips Down to Demonstrate the Importance of Top Surgery in Crowdfunding Campaign.</title>
+			<description>A press release for #freekitties' official launch (November 27, 2014)</description>
+			<link>http://www.elijahrenard.com/docs/pdf/TransguyStripsDownInCrowdfundingCampaign_PressRelease_November27_2014.pdf</link>
+		</additional>
+		<additional>
+			<title>[PDF] Montreal Transguy Strips Down to Demonstrate the Importance of Top Surgery in Crowdfunding Campaign.</title>
+			<description>A backgrounder for #freekitties' official launch (November 27, 2014)</description>
+			<link>http://www.elijahrenard.com/docs/pdf/TransguyStripsDownInCrowdfundingCampaign_Backgrounder_November27_2014.pdf</link>
+		</additional>
+	</additionals>
+	
+	<credits>
+		<credit>
+			<person>Elijah Renard</person>
+			<website>http://www.elijahrenard.com</website>
+			<role>Designer, Video Editor, Speaker</role>
+		</credit>
+		<credit>
+			<person>Eric Mailhot</person>
+			<website>http://www.ericzone.com</website>
+			<role>Producer, Video Editor, Photographer</role>
+		</credit>
+		<credit>
+			<person>Eric Skiff</person>
+			<website>https://soundcloud.com/eric-skiff/underclocked-underunderclocked?in=eric-skiff/sets/resistor-anthems</website>
+			<role>Music</role>
+		</credit>
+		<credit>
+			<person>Coral Short</person>
+			<website>http://www.coralshort.com</website>
+			<role>Camera</role>
+		</credit>
+		<credit>
+			<person>Catholic Gaydar</person>
+			<website>http://gaydar.bandcamp.com</website>
+			<role>Music</role>
+		</credit>
+		<credit>
+			<person>The Bandit Zine</person>
+			<website>http://www.thebanditzine.com</website>
+			<role>Audioboozine Perk</role>
+		</credit>
+		<credit>
+			<person>Dr. Sugarbottom's</person>
+			<website>http://www.drsugarbottoms.com</website>
+			<role>Sweet Tooth Perk</role>
+		</credit>
+	</credits>
+	
+	<contacts>
+		<contact>
+			<name>Inquiries</name>
+			<mail>elijahrenard@gmail.com</mail>
+		</contact>
+		<contact>
+			<name>Web</name>
+			<link>http://igg.me/at/freekitties</link>
+		</contact>
+		<contact>
+			<name>Instagram</name>
+			<link>http://instagram.com/ElijahRenard</link>
+		</contact>
+		<contact>
+			<name>Twitter</name>
+			<link>http://twitter.com/ElijahRenard</link>
+		</contact>
+		<contact>
+			<name>Facebook</name>
+			<link>http://facebook.com/ElijahRenard</link>
+		</contact>
+	</contacts>
+</game>
